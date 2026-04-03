@@ -1,0 +1,16 @@
+pyproject.toml
+newsagg/__init__.py
+newsagg/aggregator.py
+newsagg/cli.py
+newsagg/models.py
+newsagg.egg-info/PKG-INFO
+newsagg.egg-info/SOURCES.txt
+newsagg.egg-info/dependency_links.txt
+newsagg.egg-info/entry_points.txt
+newsagg.egg-info/requires.txt
+newsagg.egg-info/top_level.txt
+newsagg/sources/__init__.py
+newsagg/sources/github.py
+newsagg/sources/hackernews.py
+newsagg/sources/news_rss.py
+newsagg/sources/reddit.py

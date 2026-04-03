@@ -1,0 +1,2 @@
+[console_scripts]
+newsagg = newsagg.cli:main
